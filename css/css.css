@@ -105,11 +105,11 @@ img{
 	
 }
 
-#Portfolio {
+#portfolio {
 	list-style:none;
 }
 
-#Portfolio li { 
+#portfolio li { 
 	width:95%;
 	margin:10px 2.5% 0 2.5%;
 }
@@ -184,7 +184,7 @@ img{
 
 @media screen and (min-width: 900px)
 {
-	#Portfolio li {
+	#portfolio li {
 		float: left;
 		width: 28%;
 		margin:2.5%;		
